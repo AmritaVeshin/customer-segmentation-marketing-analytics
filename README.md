@@ -41,15 +41,15 @@ The notebook explores customer-related data across the following stages:
 
 ## 📁 Project Structure
 
-customer-segmentation-marketing-analytics/
-│
-├── Customer_Behaviour_and_Marketing_Analysis.ipynb # 📘 Main notebook
-├── customers.csv  # 📄 customers sample dataset 
-├── orders.csv  # 📄 orders sample dataset
-├── order_items.csv  # 📄 order items sample dataset 
-├── products.csv  # 📄 products sample dataset 
-├── website_sessions.csv  # 📄 website sessions sample dataset 
-└── README.md # 📘 Project documentation
+customer-segmentation-marketing-analytics/<br>
+│<br>
+├── Customer_Behaviour_and_Marketing_Analysis.ipynb # 📘 Main notebook <br>
+├── customers.csv  # 📄 customers sample dataset <br>
+├── orders.csv  # 📄 orders sample dataset<br>
+├── order_items.csv  # 📄 order items sample dataset <br>
+├── products.csv  # 📄 products sample dataset <br>
+├── website_sessions.csv  # 📄 website sessions sample dataset <br>
+└── README.md # 📘 Project documentation <br>
 
 ## ✨ Key Highlights
 
